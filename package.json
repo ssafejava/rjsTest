@@ -1,0 +1,14 @@
+{
+  "name": "rjsTest",
+  "version": "0.0.0",
+  "description": "Run ./test.sh.",
+  "scripts": {
+    "test": "sh test.sh"
+  },
+  "license": "MIT",
+  "author": "ssafejava",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-qunit": "^0.4.0"
+  }
+}
